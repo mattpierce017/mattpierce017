@@ -7,6 +7,6 @@
 - <b>Dynamic FAQs Page</b>
   - [Using Toggle Functions and querySelector functions](https://github.com/mattpierce017/JS_Questions)
 - <b>Interactive Menu Project<b>
-  - [Using Classes for Clean Code and utilizing Images](https:github.com/mattpierce017/menu-project)
+  - [Using Classes for Clean Code and utilizing Images](https://github.com/mattpierce017/menu_project)
 - <b>Sample Website<b>
-  - [Using Classes for Clean Code and utilizing Images to create a functional website to showcase my skills.](https:github.com/mattpierce017/Sample-Website)
+  - [Using Classes for Clean Code and utilizing Images to create a functional website to showcase my skills.](https://github.com/mattpierce017/Sample-Website)
