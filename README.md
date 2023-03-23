@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://github.com/mattpierce017">Programmer</a>, <a href="https://www.linkedin.com/in/matt-pierce/">Software Developer</a>
+<h1>Hi, I'm Matt! <br/><a href="https://github.com/mattpierce017">QA Engineer</a>, <a href="https://www.linkedin.com/in/matt-pierce/">SDET</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
