@@ -3,9 +3,9 @@
 <h2>👨‍💻 QA Manual Testing:</h2>
 
 - <b>Bug Report Example</b>
-  - [Written Bug Reports in Jira](https://github.com/mattpierce017/magic_8_ball)
+  - [Written Bug Reports in Jira](https://github.com/mattpierce017/Bug_Reports)
 - <b>Test Case Example</b>
-  - [Using Zephyr to Manage Tests](https://github.com/mattpierce017/JS_Questions)
+  - [Using Zephyr to Manage Tests](https://github.com/mattpierce017/Test_Cases)
 
 <h2>👨‍💻 SDET Testing Automation:</h2>
 
